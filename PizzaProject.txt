@@ -1,6 +1,7 @@
 Decide where to order pizza from.
-Complain about not knowing what to eat to partner.
+    a. Complain about not knowing what to eat to partner.
 Choose your pizza toppings.
+    a. Be sad you can't eat gluten
 Place your order.
 Pay for delivery.
 Wait anxiously for deliciousness.
