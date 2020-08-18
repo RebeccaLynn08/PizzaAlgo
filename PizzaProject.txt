@@ -1,2 +1,4 @@
 Decide where to order pizza from.
 Choose your pizza toppings.
+Place your order.
+Pay for delivery.
